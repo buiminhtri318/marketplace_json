@@ -40,7 +40,7 @@
     "contact": {
       "email": "abc@xyz.com",
       "phone": "(111) 222-3333",
-      "name": "John Doe",
+      "name": "John Doe"
     },
     "material_finish": [
         {
@@ -96,7 +96,7 @@
     "contact": {
       "email": "abc@xyz.com",
       "phone": "(111) 222-3333",
-      "name": "John Doe",
+      "name": "John Doe"
     },
     "material_finish": [
         {
