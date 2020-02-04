@@ -1,114 +1,116 @@
-[
-  {
-    "id": 12345,
-    "product": "Glasshuset",
-    "partnerid": 1323,
-    "partner": "Lundgard + Tranberg",
-    "usp": ["Contemporary Glass House"],
-    "description": "The glasshouse is the result of many years of collaborative research with SBI, regarding the use of highly insulated glass as the primary façade material for the construction.",
-    "area": 900,
-    "height": 25,
-    "bed": 2,
-    "bath": 2,
-    "rooms": [
-      "Laundry Room",
-      "Kitchen",
-      "Living room"
-    ],
-    "images": [
-      "marketplace/images/lundgardtranberg_product12345_01.jpg",
-      "marketplace/images/lundgardtranberg_product12345_02.jpg",
-      "marketplace/images/lundgardtranberg_product12345_03.jpg"
-    ],
-    "geometry": {
-      "type":"Polygon",
-      "coordinates": [
-        [-118.330465,34.044828],
-        [-118.330407,34.044806],
-        [-118.330382,34.04485],
-        [-118.330441,34.044873],
-        [-118.330465,34.044828]
+{
+  "marketplaces": [
+    {
+      "id": 12345,
+      "product": "Glasshuset",
+      "partnerid": 1323,
+      "partner": "Lundgard + Tranberg",
+      "usp": ["Contemporary Glass House"],
+      "description": "The glasshouse is the result of many years of collaborative research with SBI, regarding the use of highly insulated glass as the primary façade material for the construction.",
+      "area": 900,
+      "height": 25,
+      "bed": 2,
+      "bath": 2,
+      "rooms": [
+        "Laundry Room",
+        "Kitchen",
+        "Living room"
+      ],
+      "images": [
+        "marketplace/images/lundgardtranberg_product12345_01.jpg",
+        "marketplace/images/lundgardtranberg_product12345_02.jpg",
+        "marketplace/images/lundgardtranberg_product12345_03.jpg"
+      ],
+      "geometry": {
+        "type":"Polygon",
+        "coordinates": [
+          [-118.330465,34.044828],
+          [-118.330407,34.044806],
+          [-118.330382,34.04485],
+          [-118.330441,34.044873],
+          [-118.330465,34.044828]
+        ]
+      },
+      "financing": {
+        "status": "Unavailable"
+      },
+      "customization": {
+        "status": "Allowed",
+        "description": "Products are prefabricated but customization is possible. Please share with Lundgard + Tranberg for more information."
+      },
+      "contact": {
+        "email": "abc@xyz.com",
+        "phone": "(111) 222-3333",
+        "name": "John Doe"
+      },
+      "material_finish": [
+          {
+            "name": "Luxury",
+            "description": [
+              {"type": "Exterior", "features": ["Floor-to-Ceiling Glazing"]},
+              {"type": "Interior", "features": ["Level 5 drywall", "wide-plank solid oak flooring"]},
+              {"type": "Kitchen", "features": ["Marble countertops", "Wolf cooking appliances", "solid wood cabinet fronts"]},
+              {"type": "Bathroom", "features": ["Vola fixtures", "Duravit wall-mounted toilets", "marble shower enclosure", "solid wood vanity cabinets"]}
+            ],
+            "cost": 480000
+          }
       ]
     },
-    "financing": {
-      "status": "Unavailable"
-    },
-    "customization": {
-      "status": "Allowed",
-      "description": "Products are prefabricated but customization is possible. Please share with Lundgard + Tranberg for more information."
-    },
-    "contact": {
-      "email": "abc@xyz.com",
-      "phone": "(111) 222-3333",
-      "name": "John Doe"
-    },
-    "material_finish": [
-        {
-          "name": "Luxury",
-          "description": [
-            {"type": "Exterior", "features": ["Floor-to-Ceiling Glazing"]},
-            {"type": "Interior", "features": ["Level 5 drywall", "wide-plank solid oak flooring"]},
-            {"type": "Kitchen", "features": ["Marble countertops", "Wolf cooking appliances", "solid wood cabinet fronts"]},
-            {"type": "Bathroom", "features": ["Vola fixtures", "Duravit wall-mounted toilets", "marble shower enclosure", "solid wood vanity cabinets"]}
-          ],
-          "cost": 480000
-        }
-    ]
-  },
-  {
-    "id": 12345,
-    "product": "Glasshuset",
-    "partnerid": 1323,
-    "partner": "Lundgard + Tranberg",
-    "usp": ["Contemporary Glass House"],
-    "description": "The glasshouse is the result of many years of collaborative research with SBI, regarding the use of highly insulated glass as the primary façade material for the construction.",
-    "area": 900,
-    "height": 25,
-    "bed": 2,
-    "bath": 2,
-    "rooms": [
-      "Laundry Room",
-      "Kitchen",
-      "Living room"
-    ],
-    "images": [
-      "marketplace/images/lundgardtranberg_product12345_01.jpg",
-      "marketplace/images/lundgardtranberg_product12345_02.jpg",
-      "marketplace/images/lundgardtranberg_product12345_03.jpg"
-    ],
-    "geometry": {
-      "type":"Polygon",
-      "coordinates": [
-        [-118.330465,34.044828],
-        [-118.330407,34.044806],
-        [-118.330382,34.04485],
-        [-118.330441,34.044873],
-        [-118.330465,34.044828]
+    {
+      "id": 12345,
+      "product": "Glasshuset",
+      "partnerid": 1323,
+      "partner": "Lundgard + Tranberg",
+      "usp": ["Contemporary Glass House"],
+      "description": "The glasshouse is the result of many years of collaborative research with SBI, regarding the use of highly insulated glass as the primary façade material for the construction.",
+      "area": 900,
+      "height": 25,
+      "bed": 2,
+      "bath": 2,
+      "rooms": [
+        "Laundry Room",
+        "Kitchen",
+        "Living room"
+      ],
+      "images": [
+        "marketplace/images/lundgardtranberg_product12345_01.jpg",
+        "marketplace/images/lundgardtranberg_product12345_02.jpg",
+        "marketplace/images/lundgardtranberg_product12345_03.jpg"
+      ],
+      "geometry": {
+        "type":"Polygon",
+        "coordinates": [
+          [-118.330465,34.044828],
+          [-118.330407,34.044806],
+          [-118.330382,34.04485],
+          [-118.330441,34.044873],
+          [-118.330465,34.044828]
+        ]
+      },
+      "financing": {
+        "status": "Unavailable"
+      },
+      "customization": {
+        "status": "Allowed",
+        "description": "Products are prefabricated but customization is possible. Please share with Lundgard + Tranberg for more information."
+      },
+      "contact": {
+        "email": "abc@xyz.com",
+        "phone": "(111) 222-3333",
+        "name": "John Doe"
+      },
+      "material_finish": [
+          {
+            "name": "Luxury",
+            "description": [
+              {"type": "Exterior", "features": ["Floor-to-Ceiling Glazing"]},
+              {"type": "Interior", "features": ["Level 5 drywall", "wide-plank solid oak flooring"]},
+              {"type": "Kitchen", "features": ["Marble countertops", "Wolf cooking appliances", "solid wood cabinet fronts"]},
+              {"type": "Bathroom", "features": ["Vola fixtures", "Duravit wall-mounted toilets", "marble shower enclosure", "solid wood vanity cabinets"]}
+            ],
+            "cost": 480000
+          }
       ]
-    },
-    "financing": {
-      "status": "Unavailable"
-    },
-    "customization": {
-      "status": "Allowed",
-      "description": "Products are prefabricated but customization is possible. Please share with Lundgard + Tranberg for more information."
-    },
-    "contact": {
-      "email": "abc@xyz.com",
-      "phone": "(111) 222-3333",
-      "name": "John Doe"
-    },
-    "material_finish": [
-        {
-          "name": "Luxury",
-          "description": [
-            {"type": "Exterior", "features": ["Floor-to-Ceiling Glazing"]},
-            {"type": "Interior", "features": ["Level 5 drywall", "wide-plank solid oak flooring"]},
-            {"type": "Kitchen", "features": ["Marble countertops", "Wolf cooking appliances", "solid wood cabinet fronts"]},
-            {"type": "Bathroom", "features": ["Vola fixtures", "Duravit wall-mounted toilets", "marble shower enclosure", "solid wood vanity cabinets"]}
-          ],
-          "cost": 480000
-        }
-    ]
-  }
-]
+    }
+  ]
+}
